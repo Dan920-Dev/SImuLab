@@ -12,3 +12,7 @@
 6. [Ejercicio 06](./Scripts/main06.cpp) Cree una función que tiene por parámetros un arreglo de enteros y 2 números enteros n y b que retorne cuantas de las primeras n posiciones son mayores que b.
 
 7. [Ejercicio 07](./Scripts/main07.cpp) Construya una función que determine si un número que recibe por parámetro es palindromo.
+
+8. [Ejercicio 08](./Scripts/main08.cpp) Programe una función que reciba un arreglo de enteros y retorne cuantos de sus miembros son mayores que la media de sus miembros.\
+
+9. [Ejercicio 09](./Scripts/main09.cpp) Programe una función que dada una cadena de caracteres y un entero n, desplace cada letra n veces. Por ejemplo: cesar(“hola”, 2) -> “jqnc”.
