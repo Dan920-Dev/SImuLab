@@ -25,7 +25,7 @@ void funTrunc(string cad, int n){
     if(cad.size() < n){
         cout << "La cadena no puede ser modificada \n";
     }else{
-        for(int i = 0; i <= n; i++ ){
+        for(int i = 0; i < n; i++ ){
             cadR += cad[i];
         }
     }
