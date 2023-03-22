@@ -19,3 +19,18 @@
 
 10. [Ejercicio 10](./Scripts/main10.cpp) Programe una función que dada una cadena, la cifre en clave murciélago.
 
+# Matrices
+
+1. [Ejercicio 01](./Scripts/main11.cpp) Escriba una función que dada una matriz cuadrada, indique si esta es una matriz diagonal.
+
+2. [Ejercicio 02](./Scripts/main12.cpp) Escriba una función que dada una matriz cuadrada, indique si esta es una matriz simétrica.
+
+3. [Ejercicio 03](./Scripts/main13.cpp) Construya una función que reciba una matriz y 2 enteros a y b que reemplace todas las ocurrencias de a por b.
+
+4. [Ejercicio 04](./Scripts/main14.cpp) Programe una función que reciba 2 matrices cuadradas A y B y 2 enteros f y c e indique si la fila f de la matriz A es igual a la columna c de la matriz B.
+
+5. [Ejercicio 05](./Scripts/main15.cpp) Cree una función que reciba una matriz cuadrada y 2 enteros a y b y un booleano, el booleano es true deberá intercambiar las filas a y b, si es false deberá intercambiar las columnas a y b.
+
+6. [Ejercicio 06](./Scripts/main16.cpp) Construya una función que reciba una matriz 3x3 y 2 enteros i y j y retorne una matriz 2x2 que será el menor ij de la matriz.
+
+7. [Ejercicio 07](./Scripts/main17.cpp) Escriba una función que reciba una matriz 3x3 de caracteres y una cadenade 3 caracteres y verifique si esta cadena se encuentra contenida en las filas, columnas o diagonales de la matriz.
