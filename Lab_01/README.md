@@ -16,3 +16,6 @@
 8. [Ejercicio 08](./Scripts/main08.cpp) Programe una función que reciba un arreglo de enteros y retorne cuantos de sus miembros son mayores que la media de sus miembros.\
 
 9. [Ejercicio 09](./Scripts/main09.cpp) Programe una función que dada una cadena de caracteres y un entero n, desplace cada letra n veces. Por ejemplo: cesar(“hola”, 2) -> “jqnc”.
+
+10. [Ejercicio 10](./Scripts/main10.cpp) Programe una función que dada una cadena, la cifre en clave murciélago.
+
